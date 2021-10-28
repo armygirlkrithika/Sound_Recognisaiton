@@ -1,0 +1,46 @@
+body {
+    background-color :deeppink;
+    font-family: 'Cedarville Cursive', cursive;
+
+}
+
+.headerdiv {
+    font-size: 25px;
+    font-weight: 900;
+    color :greenyellow;
+    background-color: indigo;
+    top : 0;
+}
+
+.maindiv button {
+    font-size : 20px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(2, 0, 130);
+    color: lightgoldenrodyellow;
+}
+
+.maindiv h3{
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: 30px;
+
+}
+
+.footerdiv {
+    background-color : slategrey;
+    color :snow;
+    font-size : 25px;
+    bottom : 0;
+    position : fixed;
+    text-shadow: 5px 5px 5px  rgb(130, 0, 76);
+    text-align : center;
+    width : 100%;
+    font-family: 'Special Elite', cursive;
+}
+
+h3:hover {
+    font-size : 50px;
+
+}
